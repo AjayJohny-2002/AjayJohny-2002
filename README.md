@@ -1,7 +1,7 @@
 
 # **Hi there , I am Ajay Johny** <span class="wave">👋</span>
 
-<blink>## Myself : B Tech Student at SJCET Palai</blink>
+## Myself : B Tech Student at SJCET Palai
 
 
 ___
@@ -17,7 +17,8 @@ ___
 
 [Instagram](https://www.instagram.com/_ajay.johny_/)
 
+*Contact Me*
 
-| Name | Email |
+| Email | ajayvjohny2002@gmail.com |
 |------|-------|
-|Ajay Johny| ajayvjohny2002@gmail.com
+|**Number**| 8590614379 |
