@@ -1,5 +1,5 @@
 
-# **Hi there , I am Ajay Johny** <span class="wave">👋</span>
+# **Hi there , I am Ajay Johny** <span class="wave">✌️</span>
 
 ## Myself : B Tech Student at SJCET Palai
 
