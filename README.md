@@ -13,6 +13,10 @@ ___
 
 [Github](https://github.com/AjayJohny-2002/)
 
+[Facebook](https://www.facebook.com/ajay.johny.125/)
+
+[Instagram](https://www.instagram.com/_ajay.johny_/)
+
 
 | Name | Email |
 |------|-------|
